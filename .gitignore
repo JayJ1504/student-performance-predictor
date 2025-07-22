@@ -1,0 +1,24 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and virtual environments
+data/*
+!data/README.md
+*.csv
+venv/
+.env
+
+# Streamlit
+*.streamlit
+
+# Logs
+*.log
+
+# Output
+visuals/
