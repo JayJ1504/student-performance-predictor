@@ -3,6 +3,9 @@
 This project uses machine learning to predict whether a student will pass or fail based on their exam scores and background factors.
 
 ---
+# App Preview
+![App Preview](assets/app_preview.png)
+
 
 ## 📊 Objective
 
