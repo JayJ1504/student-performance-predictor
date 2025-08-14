@@ -18,7 +18,7 @@ To build a classification model that predicts student performance (pass/fail) us
 - Python (pandas, NumPy, seaborn, matplotlib)
 - scikit-learn
 - Jupyter Notebook
-- Streamlit (optional deployment)
+- Streamlit.
 
 ---
 
@@ -52,13 +52,7 @@ student-performance-predictor/
 - Train and evaluate classification models
 - Explore the effect of socio-economic factors
 - Visualize performance patterns
-- Deploy as an interactive app (bonus)
-
----
-
-## 📈 Sample Visualizations
-
-> (Add charts later once visuals are created)
+- Deploy as an interactive app.
 
 ---
 
