@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# 🎓 EduTrack – Student Performance Predictor
 
 This project uses machine learning to predict whether a student will pass or fail based on their exam scores and background factors.
 
