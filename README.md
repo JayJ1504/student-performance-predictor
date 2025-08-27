@@ -34,13 +34,14 @@ To build a classification model that predicts student performance (pass/fail) us
 
 student-performance-predictor/
 │
-├── data/ # Raw dataset
-├── notebooks/ # EDA & Model Notebooks
-├── app/ # Streamlit web app (optional)
-├── visuals/ # Exported graphs
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── data/           # Raw dataset  
+├── notebooks/      # EDA & Model Notebooks  
+├── app/            # Streamlit web app (optional)  
+├── visuals/        # Exported graphs  
+├── README.md  
+├── requirements.txt  
+└── .gitignore  
+
 
 
 
